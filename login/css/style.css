@@ -1,0 +1,40 @@
+
+h1{
+    color:black;
+}
+ label{
+    color: red;
+ }
+ #userlabel {
+    font: size 20px;
+    background-color:brown;
+ }
+ #passlabel{
+    font-size: 20px;
+    background-color:blue;
+ }
+
+.link-style:link {
+    color: blue;
+    background-color:aqua;
+}
+
+.link-style:hover {
+    color: yellow;
+    background-color:black;
+}
+
+.link-style:active {
+    color: red;
+    background-color:yellow;
+}
+
+.link-style:visited {
+    color: blue;
+    background-color:aqua;
+}
+
+
+
+
+
